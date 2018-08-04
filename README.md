@@ -1,1 +1,1 @@
-# Projects Claim Risk Identification(Insurance)
+# Claim Risk Identification(Insurance)
