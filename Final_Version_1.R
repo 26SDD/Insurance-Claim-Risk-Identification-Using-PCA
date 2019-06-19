@@ -1,7 +1,5 @@
 ### Introductory Code
 
-
-
 library(forecast)
 
 library(ade4)
